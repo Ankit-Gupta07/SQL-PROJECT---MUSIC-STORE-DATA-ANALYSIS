@@ -1,7 +1,5 @@
 # SQL PROJECT - MELODIC METRICS (Music store data analysis)
 
-This project aims to analyze the Music Store database for a company and provide solutions to various business problems. The project is categorized into three levels - Easy, Moderate, and Advanced, each with a set of questions to be answered using SQL queries.
-
 ## Project Overview
 The objective of this project is to leverage SQL queries to extract meaningful insights from the Music Store database. The database contains information about customers, invoices, tracks, genres, artists, and more. By analyzing this data, we can gain valuable insights into the business operations of the music store.
 
